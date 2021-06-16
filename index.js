@@ -1,9 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateREADME = (answers) =>
-    `## ${answers.title}   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
+    `# ${answers.title}   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 ${answers.description}.
@@ -13,7 +11,7 @@ ${answers.description}.
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributin](#contributing)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -30,6 +28,7 @@ ${answers.license}.
 ${answers.contributing}
 
 ## Tests
+${answers.test}
 
 ## Questions
 [A link to my gitHub](https://github.com/${answers.gitHub})  
