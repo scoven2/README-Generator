@@ -3,7 +3,9 @@
 ## Description
 An application that runs in node and asks the user a series of questions, then uses those answers and plugs them into an outline of a README.md file.
 
-[Video](https://drive.google.com/file/d/1wIc7NdqZ6e7UKJM-yc6lVA34X6eiuRrQ/view)
+[Node Video](https://drive.google.com/file/d/1wIc7NdqZ6e7UKJM-yc6lVA34X6eiuRrQ/view)
+
+[Link Video](https://drive.google.com/file/d/1R_K2IBKcYf2QW_6LA5Ou59nemRxMckB6/view)
 
 
 ## Table of contents
