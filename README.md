@@ -1,7 +1,7 @@
 # README Generator   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-an application that runs in node and asks the user a series of questions, then uses those answers and plugs them into an outline of a README.md file.
+An application that runs in node and asks the user a series of questions, then uses those answers and plugs them into an outline of a README.md file.
 
 [Video](https://drive.google.com/file/d/1wIc7NdqZ6e7UKJM-yc6lVA34X6eiuRrQ/view)
 

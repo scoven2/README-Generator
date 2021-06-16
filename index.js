@@ -25,10 +25,10 @@ ${answers.usage}.
 ${answers.license}.
 
 ## Contributing
-${answers.contributing}
+${answers.contributing}.
 
 ## Tests
-${answers.test}
+${answers.test}.
 
 ## Questions
 [A link to my gitHub](https://github.com/${answers.gitHub})  
